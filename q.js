@@ -2,7 +2,7 @@
  * jQuery TagCloud plugin
  *
  * @version 1.2.2 (12-MAY-2009)
- * @author Emon Ahammed <nurul_ferdous@yahoo.com>
+ * @author Emon Ahammed <fb.com>
  * @requires jQuery v1.4.3 or later Examples and documentation at:
  * http://dynamicguy.com/ Dual licensed under the MIT and GPL
  * licenses: http://www.opensource.org/licenses/mit-license.php
